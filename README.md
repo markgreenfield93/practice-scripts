@@ -1,30 +1,42 @@
-# This is a large heading
+# Mark Greenfield
 
-## This is a smaller heading
+### Basic Info
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives toa iry nothing,
-A local *habitation* and a **name**.
+I live in the Philadelphia area with my wife and dog. 
+I work as a **Quantitative Researcher** at *Susquehanna International Group*.
 
-- This is 
-- an unordered
-- list
+### Background
 
-1. This is
-2. an ordered
-3. list
+I grew up in several different parts of the USA, and studied mathematics in college and graduate school.
+I completed my PhD in 2021, and have been working at SIG since then. 
 
-Here is `some code` in the moddle of a sentence.
+### This page
 
-```
-This is 
-a block
-of code
-```
+I am working on expanding my computing and data science skills. I am working through a few online minicourses, including the UNIX Workbench on Coursera.
+This repository was created during it. Maybe I will use it for other projects soon. 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/mark-greenfield-b17a65213/)
 
+### Other Interests
 
-nano README.md
+I enjoy visiting new places. My top priorities on a trip usually are:
+1. Try the fanciest food I can find
+2. Try the most popular and prototypical local food I can find
+3. Visit a few museums, especially art and history
+4. Visit a few shops, especially bookshops
+
+Countries I have visited (ignoring just passing through):
+- USA (something like 15-20 states)
+- Bahamas
+- Canada
+- Mexico
+- China
+- Philippines
+- Thailand
+- New Zealand
+- France
+- Spain
+- Italy
+- Iceland
